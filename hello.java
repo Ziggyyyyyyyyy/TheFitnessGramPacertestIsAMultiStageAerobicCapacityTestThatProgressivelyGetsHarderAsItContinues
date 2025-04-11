@@ -1,7 +1,7 @@
 public class hello {
 
     public void greet() {
-        System.out.println("Hello, Ziggy from an object!");
+        System.out.println("Hello, " +name+ "!");
     }
     public String getNameFromUser() {
     System.out.print("Please enter your name: ");
