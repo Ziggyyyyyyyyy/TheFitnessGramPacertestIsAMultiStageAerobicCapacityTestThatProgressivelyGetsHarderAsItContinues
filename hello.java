@@ -1,5 +1,10 @@
 public class hello {
+
+    public void greet() {
+        System.out.println("Hello, Ziggy from an object!");
+    }
     public static void main (String[] args) {
-        System.out.println("Hello, World!");
+       hello hello = new hello();
+       hello.greet();
     }
 }
