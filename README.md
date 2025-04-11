@@ -1,7 +1,7 @@
 # cs-visit
 
-Ziggy
+* Ziggy
 
-coding and stuff
+* coding and stuff
 
 school visit
